@@ -11,7 +11,6 @@
 
 - 📫 You can send me a quick message on [Skype](https://join.skype.com/invite/QVTXJg06EC5t)
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/bilalak/](https://www.linkedin.com/in/bilalak/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
