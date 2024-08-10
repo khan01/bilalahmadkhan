@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on projects using [SuiteCRM](https://suitecrm.com/) [PerfexCRM](https://perfexcrm.com/) [Codeigniter](https://www.codeigniter.com/)  and [Laravel](https://laravel.com/) 
  
-- 👨‍💻 All of my projects are available at [devdiligent.com](devdiligent.com) 
+- 👨‍💻 Some of my projects [Portfolio](http://tiny.cc/portfolio-bilalkhan) for custom Business Applications. 
 
-- 💬 Ask me about **Laravel, Codeigniter, SugarCRM, SuiteCRM, PerfexCRM, Custom Business Applications**
+- 💬 Contact me about **Laravel, Codeigniter, SugarCRM, SuiteCRM, PerfexCRM, Custom Business Applications** Projects. 
 
-- 📫 How to reach me **bilal@devdiligent.com**
+- 📫 You can send me a quick message on [Skype](https://join.skype.com/invite/QVTXJg06EC5t)
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/bilalak/](https://www.linkedin.com/in/bilalak/)
 
