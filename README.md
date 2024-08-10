@@ -3,13 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khan01&label=Profile%20views&color=0e75b6&style=flat" alt="khan01" /> </p>
 
-- 🔭 I’m currently working on [SuiteCRM](https://github.com/salesagility/SuiteCRM-Core)
+- 🔭 I’m currently working on projects using [SuiteCRM](https://suitecrm.com/) [PerfexCRM](https://perfexcrm.com/) [Codeigniter] (https://www.codeigniter.com/)  and [Laravel](https://laravel.com/) 
+ 
+- 👨‍💻 All of my projects are available at [devdiligent.com](devdiligent.com) 
 
-- 👯 I’m looking to collaborate on [PerfexCRM](https://perfexcrm.com/)
-
-- 👨‍💻 All of my projects are available at [devdiligent.com](devdiligent.com)
-
-- 💬 Ask me about **Laravel, Codeigniter, SugarCRM, SuiteCRM, PerfexCRM**
+- 💬 Ask me about **Laravel, Codeigniter, SugarCRM, SuiteCRM, PerfexCRM, Custom Business Applications**
 
 - 📫 How to reach me **bilal@devdiligent.com**
 
