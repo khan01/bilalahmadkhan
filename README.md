@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khan01&label=Profile%20views&color=0e75b6&style=flat" alt="khan01" /> </p>
 
-- 🔭 I’m currently working on projects using [SuiteCRM](https://suitecrm.com/) [PerfexCRM](https://perfexcrm.com/) [Codeigniter] (https://www.codeigniter.com/)  and [Laravel](https://laravel.com/) 
+- 🔭 I’m currently working on projects using [SuiteCRM](https://suitecrm.com/) [PerfexCRM](https://perfexcrm.com/) [Codeigniter](https://www.codeigniter.com/)  and [Laravel](https://laravel.com/) 
  
 - 👨‍💻 All of my projects are available at [devdiligent.com](devdiligent.com) 
 
