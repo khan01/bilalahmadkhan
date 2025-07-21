@@ -9,7 +9,6 @@
 
 - 💬 Contact me about **Laravel, Codeigniter, SugarCRM, SuiteCRM, PerfexCRM, Custom Business Applications** Projects. 
 
-- 📫 You can send me a quick message on [Skype](https://join.skype.com/invite/QVTXJg06EC5t)
 
 
 <h3 align="left">Connect with me:</h3>
